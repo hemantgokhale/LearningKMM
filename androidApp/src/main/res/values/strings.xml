@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="background">background</string>
+    <string name="city_name">City Name</string>
+    <string name="temperature">Temperature</string>
+</resources>
